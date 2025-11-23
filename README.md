@@ -27,7 +27,15 @@ Every line is simple, readable, and meant to help you grow your fundamentals fas
 
 ### 🧱 **Stacks**
 - ✔️ Stack using Array  
-- ✔️ Stack using Linked List  
+- ✔️ Stack using Linked List
+
+ ### 🔁 **Recursion Modules**
+- ✔️ Classic recursion problems  
+- ✔️ Recursive pattern logic   
+
+### 🔥 **Stress Testing** 
+- ✔️ Heavy input testing  
+- ✔️ Performance + correctness validation  
 
 ---
 
